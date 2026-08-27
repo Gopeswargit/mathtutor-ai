@@ -1,0 +1,6 @@
+{
+  "name": "Math Student Income Engine",
+  "description": "A comprehensive earning blueprint, income calculator, and AI pitch strategist tailored specifically for mathematics students to monetize their skills through AI annotation, tutoring, quantitative freelancing, and LaTeX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
